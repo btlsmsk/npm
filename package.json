@@ -1,0 +1,22 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "betulsimsek <eylulbetulsimsek@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betulsimsek/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/betulsimsek/npm/issues"
+  },
+  "homepage": "https://github.com/betulsimsek/npm#readme",
+  "description": ""
+}
